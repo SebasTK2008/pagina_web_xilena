@@ -8,11 +8,11 @@ showcase:
   subtitle: "Estudiante de Ingeniería Industrial"
   description: "Tengo 18 años y soy una persona creativa, elocuente y apasionada por aprender. Me caracterizo por mis habilidades de comunicación, mi capacidad para trabajar en equipo y mi interés en el desarrollo de proyectos innovadores que generen impacto positivo. Me gusta enfrentar nuevos retos y siempre busco mejorar tanto a nivel personal como profesional."
   image:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/yo.jpg"
+    _2x: "img/showcase/yo.jpg"
   imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: "img/showcase/yo.jpg"
+    _2x: "img/showcase/yo.jpg"
 
   button:
     icon: "icon-mail-fill"
@@ -47,8 +47,8 @@ about:
     btnText: "Conóceme más"
     URL: "https://www.linkedin.com/in/xilena-suarez-gonzalez-309812386/"
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/yo2.jpg"
+    _2x: "img/who-am-i/yo2.jpg"
 
 
 # experience
@@ -164,23 +164,23 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Diseño Industrial Integral"
+      description: "Este proyecto, desarrollado en AutoCAD, abarca desde el boceto inicial hasta la versión final optimizada de un motor xilena. El trabajo evidencia el dominio de técnicas de dibujo industrial y de ingeniería, incluyendo el uso preciso de cotas, la representación de componentes mecánicos y la elaboración de planos técnicos en diferentes etapas del proceso. Más que un simple diseño, este proyecto refleja la capacidad de transformar ideas preliminares en representaciones técnicas completas y profesionales, siguiendo normas de ingeniería y aplicando un enfoque iterativo propio del desarrollo industrial."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+        btnText: "Ir al diseño"
+        URL: "https://github.com/SebasTK2008/pagina_web_xilena/tree/main/portafolio/proyectosAutoCad"
       image:
-        x: "img/works/auto.jpg"
-        _2x: "img/works/auto.jpg"
+        x: "img/works/auto.gif"
+        _2x: "img/works/auto.gif"
       is_even: true
 
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "Programa de Conteo de Números"
+      description: "Aplicación desarrollada en PSeInt como ejercicio de programación básica. El programa permite realizar el conteo de números dentro de un rango definido por el usuario, aplicando estructuras de control y ciclos repetitivos. Este proyecto refuerza conceptos fundamentales de algoritmia como bucles, variables y condicionales, siendo una base para problemas más complejos en programación."
       button:
         icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+        btnText: "Ver codigo"
+        URL: "https://github.com/SebasTK2008/pagina_web_xilena/blob/main/portafolio/pseInt/ConteoNumero.psc"
       image:
         x: "img/works/pse.jpg"
         _2x: "img/works/pse.jpg"
@@ -223,8 +223,8 @@ contact:
   title: "Contactame"
     
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/yo.jpg"
+    _2x: "img/who-am-i/yo.jpg"
     
   button:
     icon: "icon-mail-fill"
