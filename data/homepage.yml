@@ -171,8 +171,8 @@ client_and_work:
         btnText: "Launch Application"
         URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
+        x: "img/works/auto.jpg"
+        _2x: "img/works/auto.jpg"
       is_even: true
 
     - title: "Product Price Recommendation"
@@ -182,8 +182,8 @@ client_and_work:
         btnText: "Launch Application"
         URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
+        x: "img/works/pse.jpg"
+        _2x: "img/works/pse.jpg"
       is_even: false
 
     
@@ -233,7 +233,7 @@ contact:
     
   phone:
     title: "Phone Number"
-    number: "--"
+    number: "3148280280"
   email:
     title: "Email"
     email: '<a href="mailto:xsuarez@unimagdalena.edu.co">xsuarez@unimagdalena.edu.co</a>'
