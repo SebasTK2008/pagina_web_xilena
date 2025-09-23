@@ -220,7 +220,7 @@ testimonial:
 # contact
 contact:
   enable: true
-  title: "Contact Matt"
+  title: "Contactame"
     
   image:
     x: "img/who-am-i/user-picture-2.jpg"
@@ -228,18 +228,15 @@ contact:
     
   button:
     icon: "icon-mail-fill"
-    btnText: "Send Message"
-    btnAction: 'mailto:your-email@gmail.com'
+    btnText: "Enviame un mensaje"
+    btnAction: 'mailto:xsuarez@unimagdalena.edu.co'
     
   phone:
     title: "Phone Number"
     number: "--"
   email:
     title: "Email"
-    email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
-  address:
-    title: "Address"
-    address: "--"
+    email: '<a href="mailto:xsuarez@unimagdalena.edu.co">xsuarez@unimagdalena.edu.co</a>'
   
 
 # newsletter
