@@ -1,0 +1,251 @@
+head:
+  title: "Portafolio Xilena Suarez"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hola, soy Xilena Suarez"
+  subtitle: "Estudiante de Ingeniería Industrial"
+  description: "Tengo 18 años y soy una persona creativa, elocuente y apasionada por aprender. Me caracterizo por mis habilidades de comunicación, mi capacidad para trabajar en equipo y mi interés en el desarrollo de proyectos innovadores que generen impacto positivo. Me gusta enfrentar nuevos retos y siempre busco mejorar tanto a nivel personal como profesional."
+  image:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+  imageMobile:
+    x: "img/showcase/data-science.gif"
+    _2x: "img/showcase/data-science.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contactame"
+    URL: "mailto:xsuarez@unimagdalena.edu.co"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/xilena-suarez-gonzalez-309812386/"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/xilenasuarezg?igsh=eDB3cHFsY3B0bHZ2"
+# about
+about:
+  enable: true
+  title: "¿Quién soy?"
+  content: 
+    <p class="lead">
+    <strong>Soy Xilena Suarez, estudiante de Ingeniería Industrial de 18 años,</strong> apasionada por el análisis de procesos, la optimización de recursos y la búsqueda constante de soluciones eficientes. Mi visión es contribuir al crecimiento de las organizaciones aplicando tanto mis conocimientos académicos como mis habilidades personales. 
+    </p>
+    <p class="lead">
+    <strong>Me destaco por ser organizada, creativa y orientada a resultados.</strong> Tengo habilidades de liderazgo, comunicación efectiva y pensamiento crítico, lo que me permite adaptarme con facilidad a diferentes entornos de trabajo y colaborar en equipos multidisciplinarios. 
+    </p>
+    <p class="lead">
+    Como futura ingeniera industrial, me interesa especializarme en áreas como la gestión de proyectos, la logística y la mejora continua, con el objetivo de generar valor y aportar ideas innovadoras que optimicen el rendimiento empresarial. 
+    </p>
+    <p class="lead">
+    Estoy convencida de que mi energía, disciplina y compromiso me permitirán seguir aprendiendo y convertirme en una profesional capaz de enfrentar con éxito los desafíos del mundo laboral. 
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "Conóceme más"
+    URL: "https://www.linkedin.com/in/xilena-suarez-gonzalez-309812386/"
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+
+
+# experience
+experience:
+  enable: true
+  title: "Experiencia"
+  description: "Soy estudiante de Ingeniería Industrial con experiencia práctica en recursos humanos, liderazgo juvenil y formación académica orientada al análisis de procesos, diseño y gestión. Mi perfil combina habilidades técnicas con competencias sociales y de comunicación."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Visita mi LinkedIn"
+    URL: "https://www.linkedin.com/in/xilena-suarez-gonzalez-309812386/"
+  button2:
+    icon: "icon-profile-fill"
+    
+  items:
+    - title: "Auxiliar de Recursos Humanos"
+      company: "HSC Servicios y Suministros S.A.S"
+      duration: "2024 - Actualidad"
+      description: "Apoyo en procesos de selección, gestión documental y coordinación de actividades administrativas relacionadas con el área de talento humano. Desarrollé habilidades en trabajo en equipo, comunicación organizacional y manejo de documentación."
+
+    - title: "Candidata al Consejo de la Juventud"
+      company: "Palmar de Varela"
+      duration: "Actualidad"
+      description: "Representación juvenil, liderazgo comunitario y formulación de propuestas enfocadas en educación, emprendimiento y participación ciudadana."
+
+    - title: "Dibujo Industrial"
+      company: "Universidad"
+      duration: "Materia cursada"
+      
+    - title: "Dibujo para Ingeniería"
+      company: "Universidad"
+      duration: "Materia cursada"
+
+    - title: "Estadística Descriptiva"
+      company: "Universidad"
+      duration: "Materia cursada"
+
+    - title: "Conocimientos Técnicos"
+      company: "Formación Académica y Autodidacta"
+      duration: "En curso"
+
+    - title: "AutoCAD"
+      company: "Diseño y planos industriales"
+      duration: "Nivel intermedio"
+
+    - title: "Programación en PSeInt"
+      company: "Fundamentos de algoritmia"
+      duration: "Nivel básico-intermedio"
+
+    - title: "Herramientas Digitales"
+      company: "Aplicadas a la ingeniería"
+      duration: "En aprendizaje"
+      
+# education
+education:
+  enable: true
+  title: "Educación"
+  items:
+    - university: "Instituto Nueva Enseñanza (Santa Marta)"
+      year: "2013 - 2017"
+      degree: "Primaria"
+
+    - university: "Instituto Técnico Comercial e Industrial de Palmar de Valera"
+      year: "2017 - 2023"
+      degree: "Bachillerato Académico con énfasis técnico"
+
+    - university: "SENA - Centro Industrial y de Aviación (Regional Atlántico)"
+      year: "2022 - 2023"
+      degree: "Técnico en Programación de Aplicaciones y Servicios para la Nube"
+
+    - university: "SENA"
+      year: "2022"
+      degree: "Curso de 48 horas en Diseño, Liquidación y Pago de Nómina"
+
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Sales Demand Forecast Application"
+      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+      image:
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
+      is_even: true
+
+    - title: "Product Price Recommendation"
+      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
+      image:
+        x: "img/works/app_cannondale_price_prediction.jpg"
+        _2x: "img/works/app_cannondale_price_prediction.jpg"
+      is_even: false
+
+    
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+  
+    - name: "Justin Kurland, PhD"
+      position: "Lead Data Scientist, Northwestern Mutual"
+      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+      image:
+        x: "img/testimonials/justin.jpg"
+        _2x: "img/testimonials/justin.jpg"
+        
+    - name: "Chris Selig"
+      position: "Data Scientist"
+      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+      image:
+        x: "img/testimonials/chris.jpg"
+        _2x: "img/testimonials/chris.jpg"
+
+    
+
+    - name: "Mohana Krishna Chittoor"
+      position: "Lead Data Scientist, Money View"
+      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+      image:
+        x: "img/testimonials/mohana.jpg"
+        _2x: "img/testimonials/mohana.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact Matt"
+    
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:your-email@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "--"
+  email:
+    title: "Email"
+    email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "--"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
