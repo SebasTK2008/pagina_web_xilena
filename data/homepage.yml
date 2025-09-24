@@ -185,6 +185,17 @@ client_and_work:
         x: "img/works/pse.jpg"
         _2x: "img/works/pse.jpg"
       is_even: false
+      
+    - title: "Analisis de estadistico - caso hipotetico"
+      description: "Caso hipotético que evalúa, mediante Diferencias-en-Diferencias y análisis estadístico robusto, el efecto de un programa de capacitación y microincentivo en ventas de minoristas en Bogotá, Medellín y Cali. El estudio muestra cómo la intervención mejora significativamente las ventas, especialmente en vendedores con menor experiencia, y destaca mi capacidad para combinar modelado de datos, visualización e interpretación estratégica."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Ver análisis"
+        URL: "análisis"
+      image:
+        x: "img/works/analisis.jpg"
+        _2x: "img/works/analisis.jpg"
+      is_even: true
 
     
 
